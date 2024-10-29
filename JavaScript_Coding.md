@@ -103,3 +103,29 @@ console.log(x);// Output: 3
 // Output:2 -> 20
 // Output:3 -> ReferenceError: x is not defined
 ```
+
+
+
+Cognizant coding question:
+Write the code for below Input to get the below Output:
+```
+Input:
+{
+   test:123,
+   test1:{
+      test2:456,
+      test3:{
+        test4:678
+      }
+   },
+   test5:[1,2,3,5]
+}
+
+Output:
+{
+    test:123,
+    test1_test2:456,
+    test1_test2_test3_test4:678,
+    test5:[1,2,3,5]
+}
+```
