@@ -106,8 +106,8 @@ console.log(x);// Output: 3
 
 
 
-Cognizant coding question:
-Write the code for below Input to get the below Output:
+Cognizant coding question:  
+- Write the code for below Input to get the below Output:
 ```
 Input:
 {
